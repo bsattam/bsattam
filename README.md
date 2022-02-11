@@ -8,7 +8,7 @@
 
 <p align="center">Currently a third year undergraduate student, majoring in Information Technology, from Jadavpur University</p>
 
-<img src="https://github.com/bsattam/bsattam/blob/main/dp.jpg" style="width:20%;" align="right"/>
+<img src="https://github.com/bsattam/bsattam/blob/main/dp.jpeg" style="width:20%;" align="right"/>
 
 ### 💻 About Me
 
