@@ -23,16 +23,16 @@
 <p align = "center">
   <img width = "400" src = "https://github.com/bsattam/bsattam/blob/main/peer-1.png" />
   <img width = "400" src = "https://github.com/bsattam/bsattam/blob/main/blog-1.png" />
-  <a href = "https://github.com/SagnikH/Peer-Programming"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=bsattam&repo=pair-programming&theme=dark"/></a>
+  <a href = "https://github.com/bsattam/peer-programming"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=bsattam&repo=peer-programming&theme=dark"/></a>
   <a href = "https://github.com/bsattam/travel-the-world-blog"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=bsattam&repo=travel-the-world-blog&theme=dark"/></a>
   <img width = "400" src = "https://github.com/bsattam/bsattam/blob/main/cov-19-1.png" />
   <img width = "400" src = "https://github.com/bsattam/bsattam/blob/main/sorting-2.png" />
-  <a href = "https://github.com/SagnikH/ReLink"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=bsattam&repo=Covid-19-Tracker&theme=dark"/></a>
-  <a href = "https://github.com/SagnikH/fundme"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=bsattam&repo=Sorting-Algorithm-Visualizer&theme=dark"/></a>
+  <a href = "https://github.com/bsattam/Covid-19-Tracker"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=bsattam&repo=Covid-19-Tracker&theme=dark"/></a>
+  <a href = "https://github.com/bsattam/Sorting-Algorithm-Visualizer"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=bsattam&repo=Sorting-Algorithm-Visualizer&theme=dark"/></a>
   <img width = "400" src = "https://github.com/bsattam/bsattam/blob/main/portfolio%201.png" />
   <img width = "400" src = "https://github.com/bsattam/bsattam/blob/main/pig-game.png" />
-  <a href = "https://github.com/SagnikH/fundme"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=bsattam&repo=Portfolio&theme=dark"/></a>
-  <a href = "https://github.com/SagnikH/fundme"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=bsattam&repo=PigGame&theme=dark"/></a>
+  <a href = "https://github.com/bsattam/Portfolio"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=bsattam&repo=Portfolio&theme=dark"/></a>
+  <a href = "https://github.com/bsattam/PigGame"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=bsattam&repo=PigGame&theme=dark"/></a>
 </p>
  
 
