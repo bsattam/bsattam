@@ -6,7 +6,7 @@
   <a href = "https://www.linkedin.com/in/sattam-bandyopadhyay/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<p align="center">Currently a third year undergraduate student, majoring in Information Technology, from Jadavpur University</p>
+<p align="center">Currently a final year undergraduate student, majoring in Information Technology, from Jadavpur University</p>
 
 <img src="https://github.com/bsattam/bsattam/blob/main/dp.jpeg" style="width:20%;" align="right"/>
 
